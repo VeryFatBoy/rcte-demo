@@ -1,0 +1,889 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Angel",
+        "name": "Angel",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "N1 8XB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10558144830378893,
+          51.53296784539842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Archway",
+        "name": "Archway",
+        "marker-color": "orange",
+        "zone": "2,3",
+        "postcode": "N19 5RQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13512157562147284,
+          51.56549031545965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Balham",
+        "name": "Balham",
+        "marker-color": "yellow",
+        "zone": "3",
+        "postcode": "SW12 9SG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15268516199326135,
+          51.443182314397006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Bank",
+        "name": "Bank",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "EC3V 3LA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08900012349437465,
+          51.51334691914183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Battersea%20Power%20Station",
+        "name": "Battersea Power Station",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "SW11 8AL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14200135136467834,
+          51.479496343757326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Belsize%20Park",
+        "name": "Belsize Park",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "NW3 2AL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16397449102551867,
+          51.55019061178192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Borough",
+        "name": "Borough",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "SE1 1JX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09419732263858394,
+          51.50104871772216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Brent%20Cross",
+        "name": "Brent Cross",
+        "marker-color": "yellow",
+        "zone": "3",
+        "postcode": "NW11 9UA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21333583786630983,
+          51.57659886839313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Burnt%20Oak",
+        "name": "Burnt Oak",
+        "marker-color": "GreenYellow",
+        "zone": "4",
+        "postcode": "HA8 0LA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2643307082008112,
+          51.60255148173764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Camden%20Town",
+        "name": "Camden Town",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "NW1 8NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14245237987648948,
+          51.53996912160411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Chalk%20Farm",
+        "name": "Chalk Farm",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "NW3 2BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15373306950607965,
+          51.54414883734655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Charing%20Cross",
+        "name": "Charing Cross",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "WC2N 5HS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12480293723304417,
+          51.50835842818622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Clapham%20Common",
+        "name": "Clapham Common",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "SW4 7AJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1383149013879234,
+          51.461803445807924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Clapham%20North",
+        "name": "Clapham North",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "SW4 7TS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1299100619146426,
+          51.46491600472909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Clapham%20South",
+        "name": "Clapham South",
+        "marker-color": "orange",
+        "zone": "2,3",
+        "postcode": "SW12 9DU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14798406833029198,
+          51.45267624920499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Colindale",
+        "name": "Colindale",
+        "marker-color": "GreenYellow",
+        "zone": "4",
+        "postcode": "NW9 5HR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2502875400711353,
+          51.59523010894074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Colliers%20Wood",
+        "name": "Colliers Wood",
+        "marker-color": "yellow",
+        "zone": "3",
+        "postcode": "SW19 2HR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17741509804960517,
+          51.41875889952969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=East%20Finchley",
+        "name": "East Finchley",
+        "marker-color": "yellow",
+        "zone": "3",
+        "postcode": "N2 0NW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16474388444671967,
+          51.5873322776344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Edgware",
+        "name": "Edgware",
+        "marker-color": "green",
+        "zone": "5",
+        "postcode": "HA8 7AW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2750936620617057,
+          51.61422917451505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Elephant%20and%20Castle",
+        "name": "Elephant and Castle",
+        "marker-color": "red",
+        "zone": "1,2",
+        "postcode": "SE1 6LW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10073871425628238,
+          51.49584922002923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Embankment",
+        "name": "Embankment",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "WC2N 6NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1223673356621198,
+          51.50731229694681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Euston",
+        "name": "Euston",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "NW1 2DU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13329647081915122,
+          51.528664114832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Finchley%20Central",
+        "name": "Finchley Central",
+        "marker-color": "GreenYellow",
+        "zone": "4",
+        "postcode": "N3 2RY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19322063471165793,
+          51.60090293685636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Golders%20Green",
+        "name": "Golders Green",
+        "marker-color": "yellow",
+        "zone": "3",
+        "postcode": "NW11 7RN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19483455693826343,
+          51.57221521685042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Goodge%20Street",
+        "name": "Goodge Street",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "W1T 2HF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13480768911472682,
+          51.52061289126984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Hampstead",
+        "name": "Hampstead",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "NW3 1QG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17801455810844966,
+          51.55654230644866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Hendon%20Central",
+        "name": "Hendon Central",
+        "marker-color": "yellow",
+        "zone": "3,4",
+        "postcode": "NW4 3AS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.22673413710008808,
+          51.583132678162094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=High%20Barnet",
+        "name": "High Barnet",
+        "marker-color": "green",
+        "zone": "5",
+        "postcode": "EN5 5RP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1941653779796151,
+          51.65168793826675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Highgate",
+        "name": "Highgate",
+        "marker-color": "yellow",
+        "zone": "3",
+        "postcode": "N6 5BH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1469348609337413,
+          51.57764637933854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Kennington",
+        "name": "Kennington",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "SE11 4JQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1050706127740003,
+          51.48866228881571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Kentish%20Town",
+        "name": "Kentish Town",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "NW5 2AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14047126270052573,
+          51.55000929428177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Kings%20Cross%20St.%20Pancras",
+        "name": "Kings Cross St. Pancras",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "N1 9AL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12387212868703427,
+          51.53031226194627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Leicester%20Square",
+        "name": "Leicester Square",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "WC2H 0AP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12824214662980674,
+          51.51129097417173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=London%20Bridge",
+        "name": "London Bridge",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "SE1 2SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08600559774813961,
+          51.50467420930433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Mill%20Hill%20East",
+        "name": "Mill Hill East",
+        "marker-color": "GreenYellow",
+        "zone": "4",
+        "postcode": "NW7 1BS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20989571031440662,
+          51.60831630368604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Moorgate",
+        "name": "Moorgate",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "EC2M 6TX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08901768741961913,
+          51.51843699583112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Morden",
+        "name": "Morden",
+        "marker-color": "GreenYellow",
+        "zone": "4",
+        "postcode": "SM4 5AZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1948519795190437,
+          51.40218564474951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Mornington%20Crescent",
+        "name": "Mornington Crescent",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "NW1 2JA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13874434872471417,
+          51.53436199274684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Nine%20Elms",
+        "name": "Nine Elms",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "SW8 2NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12850098283072034,
+          51.48000104922924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Old%20Street",
+        "name": "Old Street",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "EC1V 9NR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08762295738735129,
+          51.525581330743044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Oval",
+        "name": "Oval",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "SE11 4PP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11332107512133172,
+          51.48141241737747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=South%20Wimbledon",
+        "name": "South Wimbledon",
+        "marker-color": "yellow",
+        "zone": "3,4",
+        "postcode": "SW19 1DE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19197454409905726,
+          51.41536039779992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Stockwell",
+        "name": "Stockwell",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "SW9 9AE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12284630335652602,
+          51.47215905711563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Tooting%20Bec",
+        "name": "Tooting Bec",
+        "marker-color": "yellow",
+        "zone": "3",
+        "postcode": "SW17 9AH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15970049083173754,
+          51.435837804955476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Tooting%20Broadway",
+        "name": "Tooting Broadway",
+        "marker-color": "yellow",
+        "zone": "3",
+        "postcode": "SW17 0SU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16868452577766038,
+          51.42704887092591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Tottenham%20Court%20Road",
+        "name": "Tottenham Court Road",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "W1D 2DA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1311104379402324,
+          51.516210657936185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Totteridge%20and%20Whetstone",
+        "name": "Totteridge and Whetstone",
+        "marker-color": "GreenYellow",
+        "zone": "4",
+        "postcode": "N20 9QP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17935426123339493,
+          51.63024642876388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Tufnell%20Park",
+        "name": "Tufnell Park",
+        "marker-color": "orange",
+        "zone": "2",
+        "postcode": "N19 5QB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13774217405279293,
+          51.55644057500823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Warren%20Street",
+        "name": "Warren Street",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "NW1 3AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13827833053848032,
+          51.524579764761874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Waterloo",
+        "name": "Waterloo",
+        "marker-color": "red",
+        "zone": "1",
+        "postcode": "SE1 7NY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11325925125819598,
+          51.50314645678346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=West%20Finchley",
+        "name": "West Finchley",
+        "marker-color": "GreenYellow",
+        "zone": "4",
+        "postcode": "N3 1NT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.18891710747921014,
+          51.60926242118551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.doogal.co.uk/StationMap?station=Woodside%20Park",
+        "name": "Woodside Park",
+        "marker-color": "GreenYellow",
+        "zone": "4",
+        "postcode": "N12 8SE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1854255027302192,
+          51.61786809900362
+        ]
+      }
+    }
+  ]
+}
